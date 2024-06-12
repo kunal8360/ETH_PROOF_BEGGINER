@@ -1,4 +1,4 @@
-MyToken Smart Contract Overview This is a Solidity smart contract for a custom token named ARCEUS, with the abbreviation POKEMON. The contract allows for minting and burning of tokens, managing the total supply and individual balances of addresses.
+MyToken Smart Contract Overview This is a Solidity smart contract for a custom token named DragonGold, with the abbreviation DRAGON. The contract allows for minting and burning of tokens, managing the total supply and individual balances of addresses.
 
 Features Token Details:
 
